@@ -1,6 +1,6 @@
 # Interactive web service of PCA and CA analysis by Shinyapp
 
-#### Name: [黃大維 ]
+#### Name: [黃大維 David Huang]
 #### Student ID: [111753218]
 #### ShinyApps link: [< https://d29005132.shinyapps.io/NCCU_DS2023_hw4_111753218/>]
 
